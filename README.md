@@ -1,6 +1,6 @@
 # Hi there, I'm Ali Mohammed! 👋
 
-🎓 3rd-year Computer Science Student at Suez Canal University.
+🎓 3rd-year Information Systems (IS) Student at Suez Canal University.
 🔐 Passionate about Cybersecurity, SOC Analysis, and Penetration Testing.
 💻 Actively learning Network Automation with Python & practicing on TryHackMe.
 🕸️ Solid understanding of CCNA, Network Topologies, and central devices.
