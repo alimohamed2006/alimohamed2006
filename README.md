@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Ali Mohammed! 👋
 
-<!--
-**alimohamed2006/alimohamed2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd-year Computer Science Student at Suez Canal University.
+🔐 Passionate about Cybersecurity, SOC Analysis, and Penetration Testing.
+💻 Actively learning Network Automation with Python & practicing on TryHackMe.
+🕸️ Solid understanding of CCNA, Network Topologies, and central devices.
 
-Here are some ideas to get you started:
+### 🛠️ Skills & Tools
+- **Languages:** Python (Network Automation focus), C++, SQL
+- **Networking:** Cisco CCNA 200-301 concepts, Switches, Hubs
+- **Security:** TryHackMe, Penetration Testing fundamentals
+- **Tools:** Git, GitHub, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect!
+- **LinkedIn:** [Ali Mohammed](https://www.linkedin.com/in/ali-m-soliman2006)
